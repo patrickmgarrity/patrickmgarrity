@@ -20,6 +20,7 @@ I Currently Work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | VulnCon 2024 | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | |
 
 ## Security Research
+| -- |
 | [State of Exploitation - A look Into The 1H-2025 Vulnerability Exploitation & Threat Activity](https://www.vulncheck.com/blog/state-of-exploitation-1h-2025) |
 | [Expanding VulnCheck’s KEV: Auditing ShadowServer, New CVE Assignments, and Source Expansion](https://www.vulncheck.com/blog/kev-expansion-2025) |
 | [Does ENISA EUVD live up to all the hype?](https://www.vulncheck.com/blog/enisa-euvda) |

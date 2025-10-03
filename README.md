@@ -56,5 +56,5 @@ I Currently Work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Resilient Cyber | [The Potential Collapse of CVE & Implications for Cyber](https://www.youtube.com/watch?v=8WB34h-ztE4)
 | GRC Academy | [Why Threat Intel is Essential for Vulnerability Management with Patrick Garrity](https://www.youtube.com/watch?v=KYZdfHYh4AE) |
 | Intel471 | [Vulnerability Management and Patching: Outrunning Attackers](https://www.youtube.com/watch?v=iwAWXPfVCuI) |
-| RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/)]
+| RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/) |
 

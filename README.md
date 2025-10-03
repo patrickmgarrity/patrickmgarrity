@@ -1,4 +1,4 @@
-## Hi, I'm Patrick Garrity!
+## Hi, I'm Patrick Garrity! U+1F44B
 
 I currently work as a security researcher at [VulnCheck](https://www.vulncheck.com/).
 

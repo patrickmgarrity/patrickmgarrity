@@ -47,3 +47,14 @@ I Currently Work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | [Reimagining How We Think About Threat Actors](https://www.vulncheck.com/blog/how-we-think-about-threat-actors) |
 
 ## Podcasts
+| Podcast | Topic |
+| -- | -- |
+| Threatcon1 | [The Ins and Outs of Offensive Cyber with Andrew Boyd](https://www.youtube.com/watch?v=E5Zbdok3rNQ&t=1s) |
+| Threatcon1 | [Cyber Summer Break with Jen Easterly](https://www.youtube.com/watch?v=DFajICtS7Vc) |
+| CISO Tradecraft | [Understanding Vulnerabilities, Exploits, and Cybersecurity]() |
+| Open Source Security | [CVE update with Patrick Garrity](https://youtu.be/qyMCb8jELZQ?si=5uz7bv2NGVKFdVjN) |
+| Resilient Cyber | [The Potential Collapse of CVE & Implications for Cyber](https://www.youtube.com/watch?v=8WB34h-ztE4)
+| GRC Academy | [Why Threat Intel is Essential for Vulnerability Management with Patrick Garrity](https://www.youtube.com/watch?v=KYZdfHYh4AE) |
+| Intel471 | [Vulnerability Management and Patching: Outrunning Attackers](https://www.youtube.com/watch?v=iwAWXPfVCuI) |
+| RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/)]
+

@@ -9,7 +9,7 @@ I Currently Work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## Speaking Enagements
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
-| Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GRRcon%202025.pptx) |
+| Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GRRcon%202025.pptx) |
 | Threatcon1 2025 Panel | Hours, Not Days: The Race from Disclosure to In-the-Wild Exploitation | |
 | Threatcon1 2025 | How to Triage & Research Vulnerability Data With Community Tools |  |
 | GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders |  |

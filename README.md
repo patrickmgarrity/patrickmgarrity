@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**patrickmgarrity/patrickmgarrity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, I'm Patrick Garrity!
+## Hi, I'm Patrick Garrity!
 
 I Currently Work as a security researcher at [VulnCheck](https://www.vulncheck.com/).
 

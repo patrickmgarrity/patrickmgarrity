@@ -3,14 +3,19 @@
 <!--
 **patrickmgarrity/patrickmgarrity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Patrick Garrity!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I Currently Work as a security researcher at [VulnCheck](https://www.vulncheck.com/).
+
+- Follow Me on Linkedin: https://www.linkedin.com/in/patrickmgarrity/
+- Email me at pgarrity(@)vulncheck.com
+- Ask me about vulnerability and exploitation trends
+
+Speaking Enagements
+- Grrcon 2025
+- Threatcon1 2025
+- GoSecure 2025 Keynote
+- Infosec Europe 2025
+- VulnCon 2025
+- Vuln4Cast 2024
+- VulnCon 2024

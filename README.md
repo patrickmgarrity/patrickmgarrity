@@ -12,7 +12,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GRRcon%202025.pptx) |
 | Threatcon1 2025 Panel | Hours, Not Days: The Race from Disclosure to In-the-Wild Exploitation | |
 | Threatcon1 2025 | How to Triage & Research Vulnerability Data With Community Tools |  |
-| GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders |  |
+| GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders | [GoSec Keynote Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GoSec-Keynote.pptx) |
 | Infosec Europe 2025 | Tackling Emerging Threats: It Starts with a Single Vulnerability |  |
 | VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | [Vulncon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/VulnCon-2025-Research.pdf) |
 | Vuln4Cast 2024 | Insights from 3,000 Known Exploited Vulnerabilities: What Can We Learn? | [Vuln4Cast 2024 Presentation](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/FIrst-Vuln4Cast-2024.pdf) |

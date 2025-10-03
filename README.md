@@ -5,6 +5,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 - Follow Me on Linkedin: https://www.linkedin.com/in/patrickmgarrity/
 - Contact me at pgarrity[@]vulncheck.com
 - Ask me about vulnerability and exploitation trends
+- [VulnCheck Research Microsite](https://research.vulncheck.com/)
 
 ## :loudspeaker: Speaking Enagements
 | Event | Talk / Presentation | Slides |

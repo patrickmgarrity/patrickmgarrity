@@ -1,12 +1,12 @@
-## Hi, I'm Patrick Garrity! U+1F44B
+## Hi, I'm Patrick Garrity! :wave:
 
-I currently work as a security researcher at [VulnCheck](https://www.vulncheck.com/).
+I currently work as a security researcher at [VulnCheck](https://www.vulncheck.com/). :snowman::snowman:
 
 - Follow Me on Linkedin: https://www.linkedin.com/in/patrickmgarrity/
 - Contact me at pgarrity[@]vulncheck.com
 - Ask me about vulnerability and exploitation trends
 
-## Speaking Enagements
+## :loudspeaker: Speaking Enagements
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
 | Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GRRcon%202025.pptx) |
@@ -19,7 +19,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Vuln4Cast 2024 Panel | Building Trust Through Transparency: Democratizing Vulnerability Data and Strengthening Defenses|  |
 | VulnCon 2024 | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | |
 
-## Security Research
+## :bar_chart: Security Research
 | Research Project |
 | -- |
 | [State of Exploitation - A look Into The 1H-2025 Vulnerability Exploitation & Threat Activity](https://www.vulncheck.com/blog/state-of-exploitation-1h-2025) |
@@ -46,7 +46,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | [Exploring the Anatomy of an Exploited CVE with VulnCheck KEV](https://www.vulncheck.com/blog/the-anatomy-of-an-exploited-cve) |
 | [Reimagining How We Think About Threat Actors](https://www.vulncheck.com/blog/how-we-think-about-threat-actors) |
 
-## Podcasts
+## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
 | Threatcon1 | [The Ins and Outs of Offensive Cyber with Andrew Boyd](https://www.youtube.com/watch?v=E5Zbdok3rNQ&t=1s) |
@@ -62,7 +62,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Intel471 | [Vulnerability Management and Patching: Outrunning Attackers](https://www.youtube.com/watch?v=iwAWXPfVCuI) |
 | RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/) |
 
-## Training Videos
+## :movie_camera: Training Videos
 | Topic |
 | -- |
 | [VulnCheck Getting Started Series](https://www.youtube.com/watch?v=bPvPwjR4SRE&list=PLxJm4O47cW3VNuvwDDPdRkH-08Tiy-0S7) |

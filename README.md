@@ -69,4 +69,5 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 
 ## Projects I'm Involved in
 [Extended Vulnerability Community Discord Mod](https://discord.gg/AMh9RUMc)
+
 [CVE Consumer Working Group](https://www.cve.org/ProgramOrganization/WorkingGroups#CVEConsumerWorkingGroupCWG)

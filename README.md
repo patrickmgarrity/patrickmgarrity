@@ -62,7 +62,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Intel471 | [Vulnerability Management and Patching: Outrunning Attackers](https://www.youtube.com/watch?v=iwAWXPfVCuI) |
 | RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/) |
 
-## Training Videos |
+## Training Videos
 | Topic |
 | -- |
 | [VulnCheck Getting Started Series](https://www.youtube.com/watch?v=bPvPwjR4SRE&list=PLxJm4O47cW3VNuvwDDPdRkH-08Tiy-0S7) |

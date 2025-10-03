@@ -14,7 +14,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Threatcon1 2025 | How to Triage & Research Vulnerability Data With Community Tools |  |
 | GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders |  |
 | Infosec Europe 2025 | Tackling Emerging Threats: It Starts with a Single Vulnerability |  |
-| VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | |
+| VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | [Vulncon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/VulnCon-2025-Research.pdf) |
 | Vuln4Cast 2024 | Insights from 3,000 Known Exploited Vulnerabilities: What Can We Learn? |  |
 | Vuln4Cast 2024 Panel | Building Trust Through Transparency: Democratizing Vulnerability Data and Strengthening Defenses|  |
 | VulnCon 2024 | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | |
@@ -66,3 +66,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Topic |
 | -- |
 | [VulnCheck Getting Started Series](https://www.youtube.com/watch?v=bPvPwjR4SRE&list=PLxJm4O47cW3VNuvwDDPdRkH-08Tiy-0S7) |
+
+## Projects I'm Involved in
+[Extended Vulnerability Community Discord Mod](https://discord.gg/AMh9RUMc)
+[CVE Consumer Working Group](https://www.cve.org/ProgramOrganization/WorkingGroups#CVEConsumerWorkingGroupCWG)

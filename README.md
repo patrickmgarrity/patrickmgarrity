@@ -16,8 +16,8 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Infosec Europe 2025 | Tackling Emerging Threats: It Starts with a Single Vulnerability |  |
 | VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | [Vulncon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/VulnCon-2025-Research.pdf) |
 | Vuln4Cast 2024 | Insights from 3,000 Known Exploited Vulnerabilities: What Can We Learn? |  |
-| Vuln4Cast 2024 CISA Panel | Building Trust Through Transparency: Democratizing Vulnerability Data and Strengthening Defenses|  |
-| VulnCon 2024 | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | |
+| Vuln4Cast 2024 | Building Trust Through Transparency: Democratizing Vulnerability Data and Strengthening Defenses| |
+| VulnCon 2024 CISA Panel | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | [Animation for Panel](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/CVE%E2%80%99s%20Issued%20by%20CNAs.mp4) |
 
 ## :bar_chart: Security Research
 | Research Project |

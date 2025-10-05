@@ -57,16 +57,20 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Resilient Cyber | [The Potential Collapse of CVE & Implications for Cyber](https://www.youtube.com/watch?v=8WB34h-ztE4)
 | GRC Academy | [Why Threat Intel is Essential for Vulnerability Management with Patrick Garrity](https://www.youtube.com/watch?v=KYZdfHYh4AE) |
 | Eclypsium | [The Complexities of Vulnerability Tracking and Prioritization](https://www.youtube.com/watch?v=XFmu6L71c60)
+| The Security Table | [CVSS 4.0 Unleashed with Patrick Garrity](https://www.youtube.com/watch?v=prNdRISzzJI) |
 | Kiteworks | [Safeguarding Vulnerabilities](https://www.youtube.com/watch?v=CXWpBc07O-g)
 | ITintheD | [AI’s Impact on Security](https://itinthed.com/32571/ais-impact-on-security-with-patrick-garrity-of-vulncheck-it-in-the-d-491/) |
 | Enterprise Security Weekly | [Getting Vulnerability Management Back on the Rails](https://www.scworld.com/podcast-segment/12775-getting-vulnerability-management-back-on-the-rails-patrick-garrity-esw-356) |
 | Intel471 | [Vulnerability Management and Patching: Outrunning Attackers](https://www.youtube.com/watch?v=iwAWXPfVCuI) |
 | RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/) |
 
-## :movie_camera: Training Videos
+## :movie_camera: Educational Videos
 | Topic |
 | -- |
 | [VulnCheck Getting Started Series](https://www.youtube.com/watch?v=bPvPwjR4SRE&list=PLxJm4O47cW3VNuvwDDPdRkH-08Tiy-0S7) |
+| [Stakeholder Specific Vulnerability Categorization](https://www.youtube.com/watch?v=BKVvmAaCnSs) |
+| [What is Common Vulnerability Scoring System (CVSS) v4?](https://www.youtube.com/watch?v=07xVwlndwVw)
+| [What is Exploit Prediction Scoring System (EPSS)?](https://www.youtube.com/watch?v=9Pzye4d-Hq4) |
 
 ## Projects I'm Involved in
 [Extended Vulnerability Community Discord Mod](https://discord.gg/AMh9RUMc)

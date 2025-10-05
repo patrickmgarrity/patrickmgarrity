@@ -63,6 +63,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Enterprise Security Weekly | [Getting Vulnerability Management Back on the Rails](https://www.scworld.com/podcast-segment/12775-getting-vulnerability-management-back-on-the-rails-patrick-garrity-esw-356) |
 | Intel471 | [Vulnerability Management and Patching: Outrunning Attackers](https://www.youtube.com/watch?v=iwAWXPfVCuI) |
 | RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/) |
+| Unscripted with David Raviv | [Fireside Chat](https://www.youtube.com/watch?v=2K1EjzIulpo)
 
 ## :movie_camera: Educational Videos
 | Topic |
@@ -71,6 +72,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | [Stakeholder Specific Vulnerability Categorization](https://www.youtube.com/watch?v=BKVvmAaCnSs) |
 | [What is Common Vulnerability Scoring System (CVSS) v4?](https://www.youtube.com/watch?v=07xVwlndwVw)
 | [What is Exploit Prediction Scoring System (EPSS)?](https://www.youtube.com/watch?v=9Pzye4d-Hq4) |
+| [Embarrasing Old Youtube Videos](https://www.youtube.com/@patrickmgarrity)]
 
 ## Projects I'm Involved in
 [Extended Vulnerability Community Discord Mod](https://discord.gg/AMh9RUMc)

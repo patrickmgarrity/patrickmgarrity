@@ -81,7 +81,9 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | [What is a Honeypot?](https://www.youtube.com/watch?v=gI8LnMAhBv80)|
 | [Embarrasing Old Youtube Videos](https://www.youtube.com/@patrickmgarrity)]
 
+## Acting
+[Duo MFA Dance Walk](https://www.youtube.com/watch?v=8-N-Nh3EvMo)
+
 ## Projects I'm Involved in
 [Extended Vulnerability Community Discord Mod](https://discord.gg/AMh9RUMc)
-
 [CVE Consumer Working Group](https://www.cve.org/ProgramOrganization/WorkingGroups#CVEConsumerWorkingGroupCWG)

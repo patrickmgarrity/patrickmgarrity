@@ -78,6 +78,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | [Stakeholder Specific Vulnerability Categorization](https://www.youtube.com/watch?v=BKVvmAaCnSs) |
 | [What is Common Vulnerability Scoring System (CVSS) v4?](https://www.youtube.com/watch?v=07xVwlndwVw)
 | [What is Exploit Prediction Scoring System (EPSS)?](https://www.youtube.com/watch?v=9Pzye4d-Hq4) |
+| [What is a Honeypot?](https://www.youtube.com/watch?v=gI8LnMAhBv80)|
 | [Embarrasing Old Youtube Videos](https://www.youtube.com/@patrickmgarrity)]
 
 ## Projects I'm Involved in

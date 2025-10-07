@@ -21,7 +21,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | VulnCon 2024 CISA Panel | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | [Animation for Panel](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/CVE%E2%80%99s%20Issued%20by%20CNAs.mp4) |
 
 ## :bar_chart: Security Research
-| Research Project |
+| Research Projects |
 | -- |
 | [State of Exploitation - A look Into The 1H-2025 Vulnerability Exploitation & Threat Activity](https://www.vulncheck.com/blog/state-of-exploitation-1h-2025) |
 | [Expanding VulnCheck’s KEV: Auditing ShadowServer, New CVE Assignments, and Source Expansion](https://www.vulncheck.com/blog/kev-expansion-2025) |
@@ -64,6 +64,12 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Intel471 | [Vulnerability Management and Patching: Outrunning Attackers](https://www.youtube.com/watch?v=iwAWXPfVCuI) |
 | RiskyBiz | [Talking with Nucleus Security about vulnerability threat intelligence](https://risky.biz/RBNEWSSI20/) |
 | Unscripted with David Raviv | [Fireside Chat](https://www.youtube.com/watch?v=2K1EjzIulpo)
+
+## Webinars
+| Host | Topic |
+| -- | -- |
+| Mass Device | [From Ransomware to Regulation: The New Business Reality for Medical Device Cybersecurity](https://runsafesecurity.com/webinars/medical-device-cybersecurity/) | 
+| VulnCheck | [Exploitation Trends in the First Half of 2025](https://wwv.vulncheck.com/1h-state-of-exploitation-webinar)
 
 ## :movie_camera: Educational Videos
 | Topic |

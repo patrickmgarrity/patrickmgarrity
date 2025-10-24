@@ -7,19 +7,6 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 - Ask me about vulnerability and exploitation trends
 - [Vulnerability Research Microsite](https://research.vulncheck.com/)
 
-## :loudspeaker: Speaking Enagements
-| Event | Talk / Presentation | Slides |
-| -- | -- | -- |
-| Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GRRcon%202025.pptx) |
-| Threatcon1 2025 Panel | Hours, Not Days: The Race from Disclosure to In-the-Wild Exploitation | |
-| Threatcon1 2025 | How to Triage & Research Vulnerability Data With Community Tools |  |
-| GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders | [GoSec Keynote Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GoSec-Keynote.pptx) |
-| Infosec Europe 2025 | Tackling Emerging Threats: It Starts with a Single Vulnerability |  |
-| VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | [Vulncon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/VulnCon-2025-Research.pdf) |
-| Vuln4Cast 2024 | Insights from 3,000 Known Exploited Vulnerabilities: What Can We Learn? | [Vuln4Cast 2024 Presentation](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/FIrst-Vuln4Cast-2024.pdf) |
-| Vuln4Cast 2024 | Building Trust Through Transparency: Democratizing Vulnerability Data and Strengthening Defenses| |
-| VulnCon 2024 CISA Panel | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | [Animation for Panel](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/CVE%E2%80%99s%20Issued%20by%20CNAs.mp4) |
-
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
@@ -47,6 +34,28 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | [Exploring the Anatomy of an Exploited CVE with VulnCheck KEV](https://www.vulncheck.com/blog/the-anatomy-of-an-exploited-cve) |
 | [Reimagining How We Think About Threat Actors](https://www.vulncheck.com/blog/how-we-think-about-threat-actors) |
 
+## :movie_camera: Educational Videos
+| Topic |
+| -- |
+| [VulnCheck Getting Started Series](https://www.youtube.com/watch?v=bPvPwjR4SRE&list=PLxJm4O47cW3VNuvwDDPdRkH-08Tiy-0S7) |
+| [Stakeholder Specific Vulnerability Categorization](https://www.youtube.com/watch?v=BKVvmAaCnSs) |
+| [What is Common Vulnerability Scoring System (CVSS) v4?](https://www.youtube.com/watch?v=07xVwlndwVw)
+| [What is Exploit Prediction Scoring System (EPSS)?](https://www.youtube.com/watch?v=9Pzye4d-Hq4) |
+| [What is a Honeypot?](https://www.youtube.com/watch?v=gI8LnMAhBv80)|
+
+## :loudspeaker: Speaking Enagements
+| Event | Talk / Presentation | Slides |
+| -- | -- | -- |
+| Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GRRcon%202025.pptx) |
+| Threatcon1 2025 Panel | Hours, Not Days: The Race from Disclosure to In-the-Wild Exploitation | |
+| Threatcon1 2025 | How to Triage & Research Vulnerability Data With Community Tools |  |
+| GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders | [GoSec Keynote Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GoSec-Keynote.pptx) |
+| Infosec Europe 2025 | Tackling Emerging Threats: It Starts with a Single Vulnerability |  |
+| VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | [Vulncon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/VulnCon-2025-Research.pdf) |
+| Vuln4Cast 2024 | Insights from 3,000 Known Exploited Vulnerabilities: What Can We Learn? | [Vuln4Cast 2024 Presentation](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/FIrst-Vuln4Cast-2024.pdf) |
+| Vuln4Cast 2024 | Building Trust Through Transparency: Democratizing Vulnerability Data and Strengthening Defenses| |
+| VulnCon 2024 CISA Panel | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | [Animation for Panel](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/CVE%E2%80%99s%20Issued%20by%20CNAs.mp4) |
+
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
@@ -70,15 +79,6 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | -- | -- |
 | Mass Device | [From Ransomware to Regulation: The New Business Reality for Medical Device Cybersecurity](https://runsafesecurity.com/webinars/medical-device-cybersecurity/) | 
 | VulnCheck | [Exploitation Trends in the First Half of 2025](https://wwv.vulncheck.com/1h-state-of-exploitation-webinar)
-
-## :movie_camera: Educational Videos
-| Topic |
-| -- |
-| [VulnCheck Getting Started Series](https://www.youtube.com/watch?v=bPvPwjR4SRE&list=PLxJm4O47cW3VNuvwDDPdRkH-08Tiy-0S7) |
-| [Stakeholder Specific Vulnerability Categorization](https://www.youtube.com/watch?v=BKVvmAaCnSs) |
-| [What is Common Vulnerability Scoring System (CVSS) v4?](https://www.youtube.com/watch?v=07xVwlndwVw)
-| [What is Exploit Prediction Scoring System (EPSS)?](https://www.youtube.com/watch?v=9Pzye4d-Hq4) |
-| [What is a Honeypot?](https://www.youtube.com/watch?v=gI8LnMAhBv80)|
 | [Embarrasing Old Youtube Videos](https://www.youtube.com/@patrickmgarrity)]
 
 ## Acting

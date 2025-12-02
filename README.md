@@ -59,6 +59,10 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
+|The Cyber Security Recruiter Podcast | [https://www.youtube.com/watch?v=5-pYX3V0m-8](https://www.youtube.com/watch?v=5-pYX3V0m-8) |
+| Threatcon1 | [Building a Proactive Cyber Strategy with Focus and Cross team Collaboration](https://www.youtube.com/watch?v=dbnx_rxrwTY) |
+| Threatcon1 | [Cyber Ops Experience Meets Following Industry Money with Mike Privette](https://www.youtube.com/watch?v=W0aPpqsZJTQ) |
+| Threatcon1 | [CVE's Emerging Threats and Horror Movies with Tod Beardsley (RunZero)](https://www.youtube.com/watch?v=v4nrIc6d0Hw&t) |
 | Threatcon1 | [The Ins and Outs of Offensive Cyber with Andrew Boyd](https://www.youtube.com/watch?v=E5Zbdok3rNQ&t=1s) |
 | Threatcon1 | [Cyber Summer Break with Jen Easterly](https://www.youtube.com/watch?v=DFajICtS7Vc) |
 | CISO Tradecraft | [Understanding Vulnerabilities, Exploits, and Cybersecurity]() |

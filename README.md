@@ -82,8 +82,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Host | Topic |
 | -- | -- |
 | Mass Device | [From Ransomware to Regulation: The New Business Reality for Medical Device Cybersecurity](https://runsafesecurity.com/webinars/medical-device-cybersecurity/) | 
-| VulnCheck | [Exploitation Trends in the First Half of 2025](https://wwv.vulncheck.com/1h-state-of-exploitation-webinar)
-| [Embarrasing Old Youtube Videos](https://www.youtube.com/@patrickmgarrity)]
+| VulnCheck | [Exploitation Trends in the First Half of 2025](https://wwv.vulncheck.com/1h-state-of-exploitation-webinar)|
 
 ## Acting
 [Duo MFA Dance Walk](https://www.youtube.com/watch?v=8-N-Nh3EvMo)
@@ -91,3 +90,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## Projects I'm Involved in
 [Extended Vulnerability Community Discord Mod](https://discord.gg/AMh9RUMc)
 [CVE Consumer Working Group](https://www.cve.org/ProgramOrganization/WorkingGroups#CVEConsumerWorkingGroupCWG)
+
+## Other Fun Projects
+[Embarrasing Old Youtube Videos](https://www.youtube.com/@patrickmgarrity)]
+[Stevie Rich Supply](https://www.stevierichsupply.com/)

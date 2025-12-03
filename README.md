@@ -10,6 +10,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
+| [Helping Improve and Scale the CVE Ecosystem Through the Lens of Security Research](https://www.vulncheck.com/blog/helping-scale-cve) |
 | [State of Exploitation - A look Into The 1H-2025 Vulnerability Exploitation & Threat Activity](https://www.vulncheck.com/blog/state-of-exploitation-1h-2025) |
 | [Expanding VulnCheck’s KEV: Auditing ShadowServer, New CVE Assignments, and Source Expansion](https://www.vulncheck.com/blog/kev-expansion-2025) |
 | [Does ENISA EUVD live up to all the hype?](https://www.vulncheck.com/blog/enisa-euvda) |

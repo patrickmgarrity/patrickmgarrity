@@ -60,6 +60,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
+| Resilient Cyber | [Fixing the Broken Vulnerability Management System](https://www.resilientcyber.io/p/fixing-the-broken-vulnerability-management) |
 |The Cyber Security Recruiter Podcast | [https://www.youtube.com/watch?v=5-pYX3V0m-8](https://www.youtube.com/watch?v=5-pYX3V0m-8) |
 | Threatcon1 | [Building a Proactive Cyber Strategy with Focus and Cross team Collaboration](https://www.youtube.com/watch?v=dbnx_rxrwTY) |
 | Threatcon1 | [Cyber Ops Experience Meets Following Industry Money with Mike Privette](https://www.youtube.com/watch?v=W0aPpqsZJTQ) |

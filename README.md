@@ -48,21 +48,22 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :loudspeaker: Speaking Enagements
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
-| Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GRRcon%202025.pptx) |
+| Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/GRRcon%202025.pptx) |
 | Threatcon1 2025 Panel | Hours, Not Days: The Race from Disclosure to In-the-Wild Exploitation | |
 | Threatcon1 2025 | How to Triage & Research Vulnerability Data With Community Tools |  |
-| GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders | [GoSec Keynote Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/GoSec-Keynote.pptx) |
+| GoSecure 2025 | Keynote - Exploited CVEs of 2025: Lessons for Vendors and Defenders | [GoSec Keynote Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/GoSec-Keynote.pptx) |
 | Infosec Europe 2025 | Tackling Emerging Threats: It Starts with a Single Vulnerability |  |
-| VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | [Vulncon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/VulnCon-2025-Research.pdf) |
-| Vuln4Cast 2024 | Insights from 3,000 Known Exploited Vulnerabilities: What Can We Learn? | [Vuln4Cast 2024 Presentation](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/FIrst-Vuln4Cast-2024.pdf) |
+| VulnCon 2025 | [Exploited CVEs of 2024: Lessons for Vendors and Defenders](https://youtu.be/gcATPV7d23I?si=kVSuvTBgMk670tYp) | [Vulncon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/VulnCon-2025-Research.pdf) |
+| Vuln4Cast 2024 | Insights from 3,000 Known Exploited Vulnerabilities: What Can We Learn? | [Vuln4Cast 2024 Presentation](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/FIrst-Vuln4Cast-2024.pdf) |
 | Vuln4Cast 2024 | Building Trust Through Transparency: Democratizing Vulnerability Data and Strengthening Defenses| |
 | VulnCon 2024 CISA Panel | [What It Takes to Lead America’s Vulnerability Management Team](https://youtu.be/QNDPCMEMtSE?si=hz3JGKcg3HJ8YUsK) | [Animation for Panel](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/CVE%E2%80%99s%20Issued%20by%20CNAs.mp4) |
 
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
+| Brakeing Down Security Podcast | [Wade Sparks and Patrick Garrity discuss the CVE process, working w/ researchers, & the future of CVE](https://www.youtube.com/watch?v=q-Eq1baVm-o) |
 | Resilient Cyber | [Fixing the Broken Vulnerability Management System](https://www.resilientcyber.io/p/fixing-the-broken-vulnerability-management) |
-|The Cyber Security Recruiter Podcast | [https://www.youtube.com/watch?v=5-pYX3V0m-8](https://www.youtube.com/watch?v=5-pYX3V0m-8) |
+| The Cyber Security Recruiter Podcast | [https://www.youtube.com/watch?v=5-pYX3V0m-8](https://www.youtube.com/watch?v=5-pYX3V0m-8) |
 | Threatcon1 | [Building a Proactive Cyber Strategy with Focus and Cross team Collaboration](https://www.youtube.com/watch?v=dbnx_rxrwTY) |
 | Threatcon1 | [Cyber Ops Experience Meets Following Industry Money with Mike Privette](https://www.youtube.com/watch?v=W0aPpqsZJTQ) |
 | Threatcon1 | [CVE's Emerging Threats and Horror Movies with Tod Beardsley (RunZero)](https://www.youtube.com/watch?v=v4nrIc6d0Hw&t) |

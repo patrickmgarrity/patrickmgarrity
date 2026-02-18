@@ -62,6 +62,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
+| Beard Banter | |
 | Secure Nation | [Criticality Live with Patrick Garrity](https://www.youtube.com/watch?v=Rg5iz62_mFc) |
 | Brakeing Down Security Podcast | [Wade Sparks and Patrick Garrity discuss the CVE process, working w/ researchers, & the future of CVE](https://www.youtube.com/watch?v=q-Eq1baVm-o) |
 | Resilient Cyber | [Fixing the Broken Vulnerability Management System](https://www.resilientcyber.io/p/fixing-the-broken-vulnerability-management) |

@@ -10,6 +10,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
+| [2026 State of Exploitation: Exploiting The Network Edge]([https://www.vulncheck.com/blog/state-of-exploitation-2026](https://www.vulncheck.com/blog/network-edge-device-report-2026) |
 | [VulnCheck State of Exploitation 2026](https://www.vulncheck.com/blog/state-of-exploitation-2026) |
 | [How to Report a Vulnerability to VulnCheck](https://www.vulncheck.com/blog/report-a-vulnerability) |
 | [Helping Improve and Scale the CVE Ecosystem Through the Lens of Security Research](https://www.vulncheck.com/blog/helping-scale-cve) |
@@ -62,6 +63,9 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
+| Threatcon1 | [Network Edge Security: The Attack Surface Everyone Underestimates | Saeed Abbasi of Qualys](https://www.youtube.com/watch?v=bcEtqSZ92NA)|
+| Threatcon1 | [Why Hackers Are Targeting Edge Devices | Ryan Dewhurst of watchTowr](https://www.youtube.com/watch?v=W7uAxFvgyXg)|
+| Run Zero Day | [The network edge: EOL and exploitation](https://www.youtube.com/watch?v=48LP4_X5_fg) |
 | Beard Banter | |
 | Secure Nation | [Criticality Live with Patrick Garrity](https://www.youtube.com/watch?v=Rg5iz62_mFc) |
 | Brakeing Down Security Podcast | [Wade Sparks and Patrick Garrity discuss the CVE process, working w/ researchers, & the future of CVE](https://www.youtube.com/watch?v=q-Eq1baVm-o) |

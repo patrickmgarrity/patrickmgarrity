@@ -10,7 +10,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
-| [2026 State of Exploitation: Exploiting The Network Edge]([https://www.vulncheck.com/blog/state-of-exploitation-2026](https://www.vulncheck.com/blog/network-edge-device-report-2026) |
+| [2026 State of Exploitation: Exploiting The Network Edge](https://www.vulncheck.com/blog/network-edge-device-report-2026) |
 | [VulnCheck State of Exploitation 2026](https://www.vulncheck.com/blog/state-of-exploitation-2026) |
 | [How to Report a Vulnerability to VulnCheck](https://www.vulncheck.com/blog/report-a-vulnerability) |
 | [Helping Improve and Scale the CVE Ecosystem Through the Lens of Security Research](https://www.vulncheck.com/blog/helping-scale-cve) |

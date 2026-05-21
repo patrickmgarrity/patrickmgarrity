@@ -64,6 +64,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
+| Future of Threat Intelligence (FoTI) Podcast | [CVSS Scores Are Lying To You](https://www.team-cymru.com/podcast/cvss-scores-zero-day-vulnerability) |
 | From Noise to Signal | [Past, Present & Future of CISA KEV w/ Patrick Garrity](youtube.com/watch?v=VHlHAtbrAh8&feature=youtu.be) |
 | Threatcon1 | [Network Edge Security: The Attack Surface Everyone Underestimates - Saeed Abbasi of Qualys](https://www.youtube.com/watch?v=bcEtqSZ92NA)|
 | Threatcon1 | [Why Hackers Are Targeting Edge Devices - Ryan Dewhurst of watchTowr](https://www.youtube.com/watch?v=W7uAxFvgyXg)|

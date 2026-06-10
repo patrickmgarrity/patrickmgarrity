@@ -10,6 +10,10 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
+| [Observations on Anthropic’s Vulnerability Disclosure Ledger](https://www.vulncheck.com/blog/anthropic-ledger) |
+| [The First CVE Wave: Signs That AI-Assisted Vulnerability Discovery Is Reshaping Disclosure Volumes](https://www.vulncheck.com/blog/ai-assisted-vulnerability-discovery) |
+| [Tracking CVEs Attributed to Anthropic Researchers and Project Glasswing](https://www.vulncheck.com/blog/anthropic-glasswing-cves) |
+| [Anthropic Credited CVEs](https://github.com/patrickmgarrity/Anthropic-Credited-CVEs) |
 | [2026 State of Exploitation: Exploiting The Network Edge](https://www.vulncheck.com/blog/network-edge-device-report-2026) |
 | [VulnCheck State of Exploitation 2026](https://www.vulncheck.com/blog/state-of-exploitation-2026) |
 | [How to Report a Vulnerability to VulnCheck](https://www.vulncheck.com/blog/report-a-vulnerability) |
@@ -50,6 +54,8 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :loudspeaker: Speaking Enagements
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
+| CloudCon 2026 | TBD |
+| Firstcon 2026 | A Researcher Centric Approach to Coordinated Vulnerability |
 | BSIDES Detroit 2026 | Breaking Bones and Uncovering KEVs: Lessons from Security Research and Skateboarding in Detroit |
 | VulnCon 2026 | [Identifying Exploited and Likely-to-Be-Exploited Vulnerabilities](https://www.youtube.com/watch?v=YGl19THCXmE&list=PLBAUUhONOrO_yESOH6JnwWBoRdDRVXDr0&index=15) | [VulnCon 2026 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/vulncon-2026.pdf) |
 | Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/GRRcon%202025.pptx) |

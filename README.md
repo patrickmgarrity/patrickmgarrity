@@ -55,7 +55,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
 | CloudCon 2026 | TBD |
-| Firstcon 2026 | [A Researcher Centric Approach to Coordinated Vulnerability](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/First-con-2026-The-Research-Perspective.pdf) |
+| Firstcon 2026 | A Researcher Centric Approach to Coordinated Vulnerability | FirstCon 2026 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/First-con-2026-The-Research-Perspective.pdf)
 | BSIDES Detroit 2026 | Breaking Bones and Uncovering KEVs: Lessons from Security Research and Skateboarding in Detroit |
 | VulnCon 2026 | [Identifying Exploited and Likely-to-Be-Exploited Vulnerabilities](https://www.youtube.com/watch?v=YGl19THCXmE&list=PLBAUUhONOrO_yESOH6JnwWBoRdDRVXDr0&index=15) | [VulnCon 2026 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/vulncon-2026.pdf) |
 | Grrcon 2025 | Responding to Emerging Threats Amidst the Shitpile of Vulnerability Debt | [Grrcon 2025 Slides](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/GRRcon%202025.pptx) |

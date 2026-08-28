@@ -10,6 +10,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
+| [Same Target, Different Playbooks: Two Attackers, Two Different Paths to Pwning the AI Stack](https://www.vulncheck.com/blog/pwning-the-ai-stack) |
 | [VulnCheck State of Exploitation 1H-2026](https://www.vulncheck.com/blog/state-of-exploitation-1h-2026) |
 | [Helping Federal Agencies Meet CISA’s Accelerated Remediation Timelines outlined in CISA BOD 26-04](https://www.vulncheck.com/blog/cisa-bod-26-04) |
 | [Observations on Anthropic’s Vulnerability Disclosure Ledger](https://www.vulncheck.com/blog/anthropic-ledger) |

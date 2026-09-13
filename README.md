@@ -49,6 +49,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :movie_camera: Educational Videos
 | Topic |
 | -- |
+| [ENISA CRA Single Reporting Platform](https://www.youtube.com/watch?v=DHQp1yF_CGA) |
 | [VulnCheck Getting Started Series](https://www.youtube.com/watch?v=bPvPwjR4SRE&list=PLxJm4O47cW3VNuvwDDPdRkH-08Tiy-0S7) |
 | [Stakeholder Specific Vulnerability Categorization](https://www.youtube.com/watch?v=BKVvmAaCnSs) |
 | [What is Common Vulnerability Scoring System (CVSS) v4?](https://www.youtube.com/watch?v=07xVwlndwVw)

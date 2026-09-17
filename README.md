@@ -119,6 +119,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 
 ## Video Production
 [What is a Honeypot?](https://www.youtube.com/watch?v=gI8LnMAhBv8)
+[VulnCheck Vulnerability & Exploit Intelligence Product Overview](https://www.youtube.com/watch?v=GSbUeVSrl8g)
 
 ## Projects I'm Involved in
 [Extended Vulnerability Community Discord Mod](https://discord.gg/AMh9RUMc)

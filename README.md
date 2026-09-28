@@ -86,7 +86,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 | Threatcon1 | [Network Edge Security: The Attack Surface Everyone Underestimates - Saeed Abbasi of Qualys](https://www.youtube.com/watch?v=bcEtqSZ92NA)|
 | Threatcon1 | [Why Hackers Are Targeting Edge Devices - Ryan Dewhurst of watchTowr](https://www.youtube.com/watch?v=W7uAxFvgyXg)|
 | Run Zero Day | [The network edge: EOL and exploitation](https://www.youtube.com/watch?v=48LP4_X5_fg) |
-| Beard Banter | |
+| Beard Banter | [Beard Banter - Episode 61 - Vulnerabilities and Threats](https://www.youtube.com/watch?v=JUcz7HZv1nQ) |
 | Secure Nation | [Criticality Live with Patrick Garrity](https://www.youtube.com/watch?v=Rg5iz62_mFc) |
 | Brakeing Down Security Podcast | [Wade Sparks and Patrick Garrity discuss the CVE process, working w/ researchers, & the future of CVE](https://www.youtube.com/watch?v=q-Eq1baVm-o) |
 | Resilient Cyber | [Fixing the Broken Vulnerability Management System](https://www.resilientcyber.io/p/fixing-the-broken-vulnerability-management) |

@@ -80,7 +80,7 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :microphone: Podcasts
 | Podcast | Topic |
 | -- | -- |
-| The Game - Pax8 | ["A Security Researcher's View of an AI Powered Future | Pax8"](https://www.youtube.com/watch?v=739I43iollo&list=PLXPTzZxp2mba14tIorL3XvUx-jcgjoswV&index=1) |
+| The Game - Pax8 | [A Security Researcher's View of an AI Powered Future](https://www.youtube.com/watch?v=739I43iollo&list=PLXPTzZxp2mba14tIorL3XvUx-jcgjoswV&index=1) |
 | Future of Threat Intelligence (FoTI) Podcast | [CVSS Scores Are Lying To You](https://www.team-cymru.com/podcast/cvss-scores-zero-day-vulnerability) |
 | From Noise to Signal | [Past, Present & Future of CISA KEV w/ Patrick Garrity](youtube.com/watch?v=VHlHAtbrAh8&feature=youtu.be) |
 | Threatcon1 | [Network Edge Security: The Attack Surface Everyone Underestimates - Saeed Abbasi of Qualys](https://www.youtube.com/watch?v=bcEtqSZ92NA)|

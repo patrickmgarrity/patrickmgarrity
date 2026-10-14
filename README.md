@@ -61,8 +61,9 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :loudspeaker: Speaking Enagements
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
-| THREATCON1 2026 | | |
-| Grrcon | |
+
+| THREATCON1 2026 |  | Panel Discussion - No Slides |
+| Grrcon | Trust but Verify - The Messy Reality of Exploitation Evidence | [Grrcon 2026](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/GRRCON%202026.pdf) |
 | ISC2 Detroit | The Expanding AI Attack Surface | [ISC2 Detroit](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/ISC%20-%20Detroit.pdf) |
 | BSIDES Las Vegas 2026 | Threat Actors Don't Care About Your SLA (Alternate - Did Not Speak) | [BSIDES Las Vegas 2026](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/BSIDES%20Las%20Vegas.pdf)
 | CloudCon 2026 | Tracking and Tackling the Wave of AI Discovered Vulnerabilities | [CloudCon 2026](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/CloudCon%202026%20-%20GR.pdf) |

@@ -10,6 +10,8 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
+| [Expanding Visibility Into Chinese Government-linked Cyber Threat Actors](https://www.vulncheck.com/blog/integrity-technology-group-advisory) |
+| [Enisa Single Reporting Platform](https://www.vulncheck.com/blog/enisa-cra-single-reporting-platform) |
 | [The Anthropic Glasswing Receipts Are Starting to Trickle In](https://www.vulncheck.com/blog/anthropic-glasswing-receipts) |
 | [Same Target, Different Playbooks: Two Attackers, Two Different Paths to Pwning the AI Stack](https://www.vulncheck.com/blog/pwning-the-ai-stack) |
 | [VulnCheck State of Exploitation 1H-2026](https://www.vulncheck.com/blog/state-of-exploitation-1h-2026) |

@@ -7,6 +7,12 @@ I currently work as a security researcher at [VulnCheck](https://www.vulncheck.c
 - Ask me about vulnerability and exploitation trends
 - [Vulnerability Research Microsite](https://research.vulncheck.com/)
 
+## Bio
+
+Patrick Garrity is a security researcher at VulnCheck where he focuses on vulnerabilities, vulnerability exploitation and threat actors.
+
+He is a seasoned cybersecurity professional with over 15 years of experience in security research, marketing, sales, and product roles for high-growth SaaS cybersecurity startups.
+
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |

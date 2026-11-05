@@ -16,6 +16,8 @@ He is a seasoned cybersecurity professional with over 15 years of experience in 
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
+| [Exploitation Targeting Node-RED, a Tool Embedded in ICS Products](https://www.vulncheck.com/blog/exploitation-targeting-node-red)
+| [Exploring the Risks and Impacts of AI on Vulnerability Discovery and Exploitation](https://www.vulncheck.com/blog/vulnerability-and-exploitation-risks-of-ai) |
 | [Expanding Visibility Into Chinese Government-linked Cyber Threat Actors](https://www.vulncheck.com/blog/integrity-technology-group-advisory) |
 | [Enisa Single Reporting Platform](https://www.vulncheck.com/blog/enisa-cra-single-reporting-platform) |
 | [The Anthropic Glasswing Receipts Are Starting to Trickle In](https://www.vulncheck.com/blog/anthropic-glasswing-receipts) |

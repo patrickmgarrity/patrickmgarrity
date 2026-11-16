@@ -16,6 +16,9 @@ He is a seasoned cybersecurity professional with over 15 years of experience in 
 ## :bar_chart: Security Research
 | Research Projects |
 | -- |
+| [Exploitation Flows Targeting Japan](https://www.vulncheck.com/blog/exploitation-activity-targeting-japan) |
+| [After 7-months, Glasswing Overwelms Maintainers with Underwhelming Findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) |
+| [Same Attacker, Different Door: Our Canaries Caught Microsoft's Agentic AI Secret Hunter Exploiting Langflow](https://www.vulncheck.com/blog/microsoft-secret-hunter) |
 | [Exploitation Targeting Node-RED, a Tool Embedded in ICS Products](https://www.vulncheck.com/blog/exploitation-targeting-node-red)
 | [Exploring the Risks and Impacts of AI on Vulnerability Discovery and Exploitation](https://www.vulncheck.com/blog/vulnerability-and-exploitation-risks-of-ai) |
 | [Expanding Visibility Into Chinese Government-linked Cyber Threat Actors](https://www.vulncheck.com/blog/integrity-technology-group-advisory) |

@@ -69,7 +69,7 @@ He is a seasoned cybersecurity professional with over 15 years of experience in 
 ## :loudspeaker: Speaking Enagements
 | Event | Talk / Presentation | Slides |
 | -- | -- | -- |
-| Machine Threat Intel Summit (Tokyo, Japan) | The Exploitation Gap: CVE Growth, Faster Attacks, and AI's New Attack Surface | |
+| Machine Threat Intel Summit (Tokyo, Japan) | The Exploitation Gap: CVE Growth, Faster Attacks, and AI's New Attack Surface | [Machina 2026](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/Machina%20Summit%20(Tokyo)%202026.pdf) |
 | THREATCON1 2026 |  | Panel Discussion - No Slides |
 | Grrcon | Trust but Verify - The Messy Reality of Exploitation Evidence | [Grrcon 2026](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/GRRCON%202026.pdf) |
 | ISC2 Detroit | The Expanding AI Attack Surface | [ISC2 Detroit](https://github.com/patrickmgarrity/patrickmgarrity/blob/main/presentations/ISC%20-%20Detroit.pdf) |
